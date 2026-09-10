@@ -2,7 +2,8 @@
 ## First Meeting Agenda
 
 **Date:** 10/09/2026  
-**Time:** 08:00 
+**Time:** 08:00
+
 **Chair:** CEO / Delegated Executive  
 **Meeting:** First Security Steering Committee Meeting
 
